@@ -38,7 +38,7 @@ if(a<=120){
 				sum = sum+200*4.97;
 				sun = sun+200*4.01;
 				System.out.println(sum+(a-700)*5.63);
-				System.out.println(sun+(a-700)*450);
+				System.out.println(sun+(a-700)*4.50);
 			}
 		}
 	}
